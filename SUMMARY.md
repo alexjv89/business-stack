@@ -1,6 +1,6 @@
 # Summary
 
 * [Introduction](README.md)
-* [Another](README.md)
-* [Hello](README.md)
+* [Javascript](javascript.md)
+* [Cloudflare](cloudflare.md)
 
